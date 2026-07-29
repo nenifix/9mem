@@ -1,6 +1,10 @@
-# Activity Log
+# 📜 9mem — Activity Log
 
-> Append-only chronological record.
+> Chronological record of everything that happened. Append only.
+> Format: `## [YYYY-MM-DD HH:MM UTC] type | Description`
+> Grep: `grep "^## \[" log.md | tail -5`
+
+---
 
 ## [2026-07-29 12:08 UTC] milestone | Created 9mem project structure
 - Built directory layout, wrote all base files
@@ -11,3 +15,8 @@
 - README.md, SCHEMA.md, SESSION.md, log.md, index.md pushed
 - Wiki entities, concepts, and sessions seeded
 - Tools/9mem.mdc added for Cursor integration
+
+## [2026-07-29 12:13 UTC] complete | 9mem deployed successfully 🎉
+- Full 12-file initial commit pushed to main
+- Repo is public, MIT licensed
+- Ready for promotion to other AI agents
