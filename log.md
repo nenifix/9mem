@@ -8,15 +8,18 @@
 
 ## [2026-07-29 12:08 UTC] milestone | Created 9mem project structure
 - Built directory layout, wrote all base files
-- Initiated GitHub repo creation
 
 ## [2026-07-29 12:13 UTC] milestone | GitHub repo created and seeded
-- Repo created at github.com/nenifix/9mem
-- README.md, SCHEMA.md, SESSION.md, log.md, index.md pushed
-- Wiki entities, concepts, and sessions seeded
-- Tools/9mem.mdc added for Cursor integration
+- Repo at github.com/nenifix/9mem
+- 12 files pushed across 2 commits
 
-## [2026-07-29 12:13 UTC] complete | 9mem deployed successfully 🎉
-- Full 12-file initial commit pushed to main
-- Repo is public, MIT licensed
-- Ready for promotion to other AI agents
+## [2026-07-29 12:13 UTC] complete | 9mem deployed to GitHub
+- Full system live, MIT licensed, public
+
+## [2026-07-29 12:19 UTC] milestone | Notion backup structure created
+- 🧠 9mem page under Designs todo
+- 📜 Session Logs — chronological log
+- 📚 Wiki Backup — entities & concepts
+- 🔄 Sync Guide — how it works
+- 🧠 Second Brain — relocated under 9mem
+- All synced to GitHub repo

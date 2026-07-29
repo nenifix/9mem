@@ -7,29 +7,20 @@
 ## Current Session
 
 **Date:** 2026-07-29
-**Status:** ✅ 9mem deployed and live
-**Last updated:** 2026-07-29 12:13 UTC
+**Status:** ✅ 9mem deployed + Notion backup live
+**Last updated:** 2026-07-29 12:19 UTC
 
 ### What we're doing
-Building the 9mem universal memory system — a persistent wiki workflow for AI agents that ensures continuity across sessions. Inspired by Karpathy's LLM wiki pattern.
-
-### Latest context
-- Nine wants a universal memory system compatible with ALL AI agents (Claude, ChatGPT, Hermes, OpenCode, Cursor, etc.)
-- Must document before/during/after every task
-- Must back up to Notion
-- Must be released as GitHub repo under github.com/nenifix/9mem
-
-### Previous session summary
-Last session was a massive data dump + Notion second brain build. ~15 documents processed, 21 projects catalogued, 8 clients entered, schedules set. Morning huddle delivered successfully. Evening briefing scheduled for 9PM Ghana time.
+Building the 9mem universal memory system — persistent wiki + Notion backup for AI agent continuity.
 
 ### Completed
 - [x] GitHub repo created: https://github.com/nenifix/9mem
-- [x] All base files written and pushed (README, SCHEMA, SESSION, log, index)
-- [x] Wiki seeded with entities, concepts, and this session
-- [x] Tools/9mem.mdc added for Cursor
+- [x] All base files pushed (README, SCHEMA, SESSION, log, index, wiki, tools)
+- [x] Notion sync set up — 🧠 9mem page under Designs todo
+- [x] 4 child pages: Session Logs, Wiki Backup, Sync Guide, Second Brain
+- [x] Second Brain moved under 9mem as sub-page
 - [x] MIT license
 
 ### Next up
-- [ ] Set up Notion sync for wiki backup
 - [ ] Start using 9mem workflow on real tasks
-- [ ] Promote the repo
+- [ ] Promote the repo to other AI agents
