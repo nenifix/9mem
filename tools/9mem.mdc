@@ -1,0 +1,22 @@
+---
+description: 9mem — Universal AI Agent Memory System
+globs: 
+---
+# 9mem — Cursor Rule
+
+Before any task:
+1. Read SESSION.md
+2. Read the last 5 entries of log.md
+
+At each milestone:
+1. Document what was accomplished
+2. Note decisions and blockers
+3. Update SESSION.md with current state
+
+On task completion:
+1. Write session summary
+2. Append to log.md
+3. Update index.md
+4. Update relevant entity/concept pages
+
+Use [[wikilinks]] for cross-references. Always timestamp with UTC.
